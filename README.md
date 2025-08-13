@@ -1,4 +1,3 @@
-
 # 🎯 Jogo Secreto do Amigo 3
 
 Aplicação interativa onde você adiciona nomes e sorteia um amigo aleatoriamente de forma simples e divertida.
@@ -52,4 +51,7 @@ Sorteio realizado
 
 <img width="1075" height="691" alt="print2" src="https://github.com/user-attachments/assets/02a47231-7b49-4b78-b733-f219d2ce5d38" />
 
+
+
+https://github.com/user-attachments/assets/87a361df-9b3b-461c-9e9a-7df64be03314
 
