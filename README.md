@@ -4,7 +4,7 @@
 Aplicação interativa onde você adiciona nomes e sorteia um amigo aleatoriamente de forma simples e divertida.
 
 🔗 **Repositório:** [GitHub - Jogo-secreto-do-amigo3](https://github.com/Priscila158/Jogo-secreto-do-amigo3)  
-🌐 **Demo online:** *adicione aqui o link do GitHub Pages quando publicar*
+
 
 ---
 
