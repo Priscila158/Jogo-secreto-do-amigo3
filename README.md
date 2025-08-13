@@ -24,13 +24,6 @@ Aplicação interativa onde você adiciona nomes e sorteia um amigo aleatoriamen
 
 ---
 
-## 📦 Como rodar localmente
-1. **Baixe ou clone** este repositório:
-   ```bash
-   git clone https://github.com/Priscila158/Jogo-secreto-do-amigo3.git
-Abra o arquivo index.html no navegador
-(ou use a extensão “Live Server” no VS Code para rodar localmente)
-
 🗂️ Estrutura do projeto
 pgsql
 Copiar
